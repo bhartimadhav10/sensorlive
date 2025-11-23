@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: sensor
+Version: 0.0.1
+Author: madhav
+Author-email: bhartimadhav152@gmail.com
+Requires-Dist: pymongo
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

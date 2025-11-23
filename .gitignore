@@ -14,3 +14,7 @@ __pycache__/
 *.sqlite3
 *.db
 *.egg-info/
+build/
+dist/
+.pytest_cache/
+*.egg
